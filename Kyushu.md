@@ -2,21 +2,16 @@
 
 ## Prefectures
 
-<div style="display: flex; align-items: center;">
-  <img src="images/prefectures-kyushu.jpg" alt="Your Image" style="width: 250px;">
-  <div>
-    <ul>
-        <li> Fukuoka </li>
-        <li> Saga </li>
-        <li> Nagasaki </li>
-        <li> Kumamoto </li>
-        <li> Ooita </li>
-        <li> Miyazaki </li>
-        <li> Kagoshima </li>
-        <li> Okinawa </li>
-    </ul>
-  </div>
-</div>
+<p align="center"><img src="images/prefectures-kyushu.jpg" style="width: 250px;"></p>
+
+- Fukuoka
+- Saga
+- Nagasaki
+- Kumamoto
+- Ooita
+- Miyazaki
+- Kagoshima
+- Okinawa
 
 ## Ooita
 
@@ -63,10 +58,10 @@ Grande diversité de restaurants et d'enseignes à souvenirs.
 **Conseil** : acheter le *bar-hopping pass* pour goûter des sakés et des sochus.
 **Conseil** : se balader dans la ville en *yukata* (des kimonos).
 
-| Photo                            | Photo                            | Photo                             | Plan                                |
-| -------------------------------- | -------------------------------- | --------------------------------- | ----------------------------------- |
-| ![](images/kurokawa-onsen-1.jpg) | ![](images/kurokawa-onsen-2.jpg) | ![](images/kurokawa-onsen-3.webp) | ![](images/kurokawa-onsen-plan.png) |
-
 | Prix      | Note | Site                                                  | Distance de Fukuoka | Durée conseillée | Préfécture | Meilleure période |
 | --------- | ---- | ----------------------------------------------------- | ------------------- | ---------------- | ---------- | ----------------- |
 | *Gratuit* | ⭐⭐⚫  | [Japan travel](https://www.japan.travel/en/spot/643/) | 2h00                | 1j               | Kumamoto   | Janvier-mars      |
+
+| Photo                            | Photo                            | Photo                             | Plan                                |
+| -------------------------------- | -------------------------------- | --------------------------------- | ----------------------------------- |
+| ![](images/kurokawa-onsen-1.jpg) | ![](images/kurokawa-onsen-2.jpg) | ![](images/kurokawa-onsen-3.webp) | ![](images/kurokawa-onsen-plan.png) |
