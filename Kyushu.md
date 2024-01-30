@@ -11,6 +11,7 @@
 | Train                                                                                                                                        | Bus                                                                                                     | voiture                                                                                                     |
 | -------------------------------------------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------- | ----------------------------------------------------------------------------------------------------------- |
 | Le shinkansen relie Fukuoka, Kugamoto et Kagoshima. Les autres grandes villes sont désservies par des trains régionaux souvent peu pratiques | Pratiques pour relier les grandes villes. Acheter les billets dans les gares routières ou les aéroports | Moyen le plus pratique de se déplacer. Se méfier des raccourcis par des routes de montagne, parfois étroits |
+
 <br><br>
 # Prefectures
 
@@ -34,9 +35,9 @@ Randonnées possibles aux monts monts Mimata et Waita.
 "La meilleure période pour s'y rendre [...] de mi-avril à mai lorsque la vallée se pare d'un feuillage vert luxuriant."  
 À proximité de plusieurs sources chaudes dont Kanno Jigoku, Ukenokuchi et Chojabaru.
 
-| Prix | Note | Site                                                                                             | Distance de Fukuoka | Durée conseillée      | Préfécture | Meilleure période |
-| ---- | ---- | ------------------------------------------------------------------------------------------------ | ------------------- | --------------------- | ---------- | ----------------- |
-| 500¥ | ⭐⚫⚫  | [Ici](https://yumeooturihashi.com/eng/) ou [Japan travel](https://www.japan.travel/fr/spot/695/) | 2h20                | $\frac{1}{2}$ journée | Ooita      | Mi-avril - mai    |
+| Prix | Note | Site                                                                                             | Distance de Fukuoka | Durée conseillée      | Meilleure période |
+| ---- | ---- | ------------------------------------------------------------------------------------------------ | ------------------- | --------------------- | ----------------- |
+| 500¥ | ⭐⚫⚫  | [Ici](https://yumeooturihashi.com/eng/) ou [Japan travel](https://www.japan.travel/fr/spot/695/) | 2h20                | $\frac{1}{2}$ journée | Mi-avril - mai    |
 
 | Photo                               | Plan                                     |
 | ----------------------------------- | ---------------------------------------- |
@@ -48,9 +49,9 @@ Des marais préservés, une faune et flore rares et de superbes randonnées dans
 Randonnées possibles aux monts Hosho et Mimata.  
 **Conseil** : faire un tour au [centre d'informations de Chojabaru](https://www.japan.travel/national-parks/parks/aso-kuju/see-and-do/chojabaru-visitor-center/), exposition sur la flore et la faune du parc national Aso-Kuju (💴gratuit, 🕝45min).
 
-| Prix      | Note | Site                                                  | Distance de Fukuoka | Durée conseillée | Préfécture | Meilleure période |
-| --------- | ---- | ----------------------------------------------------- | ------------------- | ---------------- | ---------- | ----------------- |
-| *Gratuit* | ⭐⭐⚫  | [Japan travel](https://www.japan.travel/fr/spot/432/) | 1h50                | N/A              | Ooita      | N/A               |
+| Prix      | Note | Site                                                  | Distance de Fukuoka | Durée conseillée | Meilleure période |
+| --------- | ---- | ----------------------------------------------------- | ------------------- | ---------------- | ----------------- |
+| *Gratuit* | ⭐⭐⚫  | [Japan travel](https://www.japan.travel/fr/spot/432/) | 1h50                | N/A              | N/A               |
 
 | Photo                           | Plan                                 |
 | ------------------------------- | ------------------------------------ |
@@ -70,9 +71,9 @@ Grande diversité de restaurants et d'enseignes à souvenirs.
 **Conseil** : acheter le *bar-hopping pass* pour goûter des sakés et des sochus.
 **Conseil** : se balader dans la ville en *yukata* (des kimonos).
 
-| Prix      | Note | Site                                                  | Distance de Fukuoka | Durée conseillée | Préfécture | Meilleure période |
-| --------- | ---- | ----------------------------------------------------- | ------------------- | ---------------- | ---------- | ----------------- |
-| *Gratuit* | ⭐⭐⚫  | [Japan travel](https://www.japan.travel/en/spot/643/) | 2h00                | 1j               | Kumamoto   | Janvier-mars      |
+| Prix      | Note | Site                                                  | Distance de Fukuoka | Durée conseillée | Meilleure période |
+| --------- | ---- | ----------------------------------------------------- | ------------------- | ---------------- | ----------------- |
+| *Gratuit* | ⭐⭐⚫  | [Japan travel](https://www.japan.travel/en/spot/643/) | 2h00                | 1j               | Janvier-mars      |
 
 | Photo                            | Photo                            | Photo                             | Plan                                |
 | -------------------------------- | -------------------------------- | --------------------------------- | ----------------------------------- |
@@ -121,10 +122,10 @@ Avant les destructions de la Seconde Guerre mondiale, Nagasaki ainsi que d'autre
 
 Voisin du musée, un mémorial minimaliste profondément émouvant. Une salle souterraine remplie d'étagères de livres contenant le noms des défunts.
 
-| Prix      | Note | Site                                        | Durée conseillée | Préfécture | Meilleure période |
-| --------- | ---- | ------------------------------------------- | ---------------- | ---------- | ----------------- |
-| *Gratuit* | ⭐⭐⚫  | [Ici](https://www.peace-nagasaki.go.jp/en/) | N/A             | N/A        | N/A               |
+| Prix      | Note | Site                                        | Durée conseillée | Meilleure période |
+| --------- | ---- | ------------------------------------------- | ---------------- | ----------------- |
+| *Gratuit* | ⭐⭐⚫  | [Ici](https://www.peace-nagasaki.go.jp/en/) | N/A              | N/A               |
 
-|Photo|Photo|
-|-|-|
-|![](images/nagasaki-peace-memorial-1.jpg)|![](images/nagasaki-peace-memorial-2.webp)|
+| Photo                                     | Photo                                      |
+| ----------------------------------------- | ------------------------------------------ |
+| ![](images/nagasaki-peace-memorial-1.jpg) | ![](images/nagasaki-peace-memorial-2.webp) |

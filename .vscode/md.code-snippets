@@ -3,9 +3,9 @@
         "prefix": "temp",
         "scope": "markdown",
         "body": [
-            "| Prix      | Note | Site                 | Distance de Fukuoka | Durée conseillée | Préfécture | Meilleure période |",
-            "| --------- | ---- | -------------------- | ------------------- | ---------------- | ---------- | ----------------- |",
-            "| *Gratuit* | ⭐⚫⚫  | [Japan travel]() | xhxx                | N/A              | xx         | N/A               |",
+            "| Prix      | Note | Site                 | Distance de Fukuoka | Durée conseillée | Meilleure période |",
+            "| --------- | ---- | -------------------- | ------------------- | ---------------- | ----------------- |",
+            "| *Gratuit* | ⭐⚫⚫  | [Japan travel]() | xhxx                | N/A              | N/A               |",
         ]
     }
 }
