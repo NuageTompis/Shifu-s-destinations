@@ -35,9 +35,9 @@ Randonnées possibles aux monts monts Mimata et Waita.
 "La meilleure période pour s'y rendre [...] de mi-avril à mai lorsque la vallée se pare d'un feuillage vert luxuriant."  
 À proximité de plusieurs sources chaudes dont Kanno Jigoku, Ukenokuchi et Chojabaru.
 
-| Prix | Note | Site                                                                                             | Distance de Fukuoka | Durée conseillée      | Meilleure période |
-| ---- | ---- | ------------------------------------------------------------------------------------------------ | ------------------- | --------------------- | ----------------- |
-| 500¥ | ⭐⚫⚫  | [Ici](https://yumeooturihashi.com/eng/) ou [Japan travel](https://www.japan.travel/fr/spot/695/) | 2h20                | $\frac{1}{2}$ journée | Mi-avril - mai    |
+| Prix 💴 | Note | Site                                                                                             | Distance de Fukuoka | Durée conseillée      | Meilleure période |
+| ------ | ---- | ------------------------------------------------------------------------------------------------ | ------------------- | --------------------- | ----------------- |
+| 500¥   | ⭐⚫⚫  | [Ici](https://yumeooturihashi.com/eng/) ou [Japan travel](https://www.japan.travel/fr/spot/695/) | 2h20 🚗              | $\frac{1}{2}$ journée | Mi-avril - mai    |
 
 | Photo                               | Plan                                     |
 | ----------------------------------- | ---------------------------------------- |
@@ -49,9 +49,9 @@ Des marais préservés, une faune et flore rares et de superbes randonnées dans
 Randonnées possibles aux monts Hosho et Mimata.  
 **Conseil** : faire un tour au [centre d'informations de Chojabaru](https://www.japan.travel/national-parks/parks/aso-kuju/see-and-do/chojabaru-visitor-center/), exposition sur la flore et la faune du parc national Aso-Kuju (💴gratuit, 🕝45min).
 
-| Prix      | Note | Site                                                  | Distance de Fukuoka | Durée conseillée | Meilleure période |
+| Prix 💴    | Note | Site                                                  | Distance de Fukuoka | Durée conseillée | Meilleure période |
 | --------- | ---- | ----------------------------------------------------- | ------------------- | ---------------- | ----------------- |
-| *Gratuit* | ⭐⭐⚫  | [Japan travel](https://www.japan.travel/fr/spot/432/) | 1h50                | N/A              | N/A               |
+| *Gratuit* | ⭐⭐⚫  | [Japan travel](https://www.japan.travel/fr/spot/432/) | 1h50 🚗              | N/A              | N/A               |
 
 | Photo                           | Plan                                 |
 | ------------------------------- | ------------------------------------ |
@@ -71,9 +71,9 @@ Grande diversité de restaurants et d'enseignes à souvenirs.
 **Conseil** : acheter le *bar-hopping pass* pour goûter des sakés et des sochus.
 **Conseil** : se balader dans la ville en *yukata* (des kimonos).
 
-| Prix      | Note | Site                                                  | Distance de Fukuoka | Durée conseillée | Meilleure période |
+| Prix 💴    | Note | Site                                                  | Distance de Fukuoka | Durée conseillée | Meilleure période |
 | --------- | ---- | ----------------------------------------------------- | ------------------- | ---------------- | ----------------- |
-| *Gratuit* | ⭐⭐⚫  | [Japan travel](https://www.japan.travel/en/spot/643/) | 2h00                | 1j               | Janvier-mars      |
+| *Gratuit* | ⭐⭐⚫  | [Japan travel](https://www.japan.travel/en/spot/643/) | 2h00 🚗              | 1j               | Janvier-mars      |
 
 | Photo                            | Photo                            | Photo                             | Plan                                |
 | -------------------------------- | -------------------------------- | --------------------------------- | ----------------------------------- |
@@ -87,7 +87,7 @@ Avant les destructions de la Seconde Guerre mondiale, Nagasaki ainsi que d'autre
 
 | Note | Site | Distance de Fukuoka | Durée conseillée | Plan                          |
 | ---- | ---- | ------------------- | ---------------- | ----------------------------- |
-| ⭐⭐⭐  | N/A  | 2h00                | Plusieurs jours  | ![](images/nagasaki-plan.png) |
+| ⭐⭐⭐  | N/A  | 2h00 🚗              | Plusieurs jours  | ![](images/nagasaki-plan.png) |
 
 **Point important** : prévoir des chaussures de marche car la ville est valonnée
 
@@ -96,9 +96,9 @@ Avant les destructions de la Seconde Guerre mondiale, Nagasaki ainsi que d'autre
 Île artificielle en forme d'éventail dans le port de Nagasaki.  
 **Pour la petite culture** : En 1641 le shogunat Tokugawa bannit les étrangers de tout le Japon 😐, à une excéption près : *Dejima*. Jusque dans les années 1850, cette parcelle néerlandaise de 15 000m² était le seul lieu où les étrangers étaient tolérés au Japon.
 
-| Prix | Note | Site                                      | Durée conseillée |
-| ---- | ---- | ----------------------------------------- | ---------------- |
-| 510¥ | ⭐⚫⚫  | [Ici](https://nagasakidejima.jp/english/) | N/A              |
+| Prix 💴 | Note | Site                                      | Durée conseillée |
+| ------ | ---- | ----------------------------------------- | ---------------- |
+| 510¥   | ⭐⚫⚫  | [Ici](https://nagasakidejima.jp/english/) | N/A              |
 
 | Photo                             | Photo                              |
 | --------------------------------- | ---------------------------------- |
@@ -110,7 +110,7 @@ Avant les destructions de la Seconde Guerre mondiale, Nagasaki ainsi que d'autre
 Évocation de la destruction (photos, meubles, poteries, etc). Récits des survivants et des histoires de sauvetage. Récit sur les campagnes de désarmement suites à l'explosion.  
 *Le guide m'a turbo spoilé la fin du musée* :|
 
-| Prix                    | Note | Site                                | Durée conseillée | Meilleure période |
+| Prix 💴                  | Note | Site                                | Durée conseillée | Meilleure période |
 | ----------------------- | ---- | ----------------------------------- | ---------------- | ----------------- |
 | 200¥ (+154¥ audioguide) | ⭐⭐⚫  | [Ici](https://nagasakipeace.jp/en/) | N/A              | N/A               | N/A |
 
@@ -122,7 +122,7 @@ Avant les destructions de la Seconde Guerre mondiale, Nagasaki ainsi que d'autre
 
 Voisin du musée, un mémorial minimaliste profondément émouvant. Une salle souterraine remplie d'étagères de livres contenant le noms des défunts.
 
-| Prix      | Note | Site                                        | Durée conseillée | Meilleure période |
+| Prix 💴    | Note | Site                                        | Durée conseillée | Meilleure période |
 | --------- | ---- | ------------------------------------------- | ---------------- | ----------------- |
 | *Gratuit* | ⭐⭐⚫  | [Ici](https://www.peace-nagasaki.go.jp/en/) | N/A              | N/A               |
 

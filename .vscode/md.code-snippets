@@ -3,9 +3,27 @@
         "prefix": "temp",
         "scope": "markdown",
         "body": [
-            "| Prix      | Note | Site                 | Distance de Fukuoka | Durée conseillée | Meilleure période |",
+            "| Prix 💴   | Note | Site                 | Distance de Fukuoka | Durée conseillée | Meilleure période |",
             "| --------- | ---- | -------------------- | ------------------- | ---------------- | ----------------- |",
             "| *Gratuit* | ⭐⚫⚫  | [Japan travel]() | xhxx                | N/A              | N/A               |",
+        ]
+    },
+    "Deux photos": {
+        "prefix": "pic",
+        "scope": "markdown",
+        "body": [
+            "|Photo|Photo|",
+            "|-|-|",
+            "|![](images)|![](images)|",
+        ]
+    },
+    "Trois photos": {
+        "prefix": "pic3",
+        "scope": "markdown",
+        "body": [
+            "|Photo|Photo|Photo|",
+            "|-|-|-|",
+            "|![](images)|![](images)|![](images)|",
         ]
     }
 }
