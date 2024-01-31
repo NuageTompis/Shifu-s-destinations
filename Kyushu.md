@@ -15,6 +15,7 @@
     - [2. Musée de la Bombe atomique de Nagasaki](#2-musée-de-la-bombe-atomique-de-nagasaki)
     - [3. Mémorial national de la paix de Nagasaki aux victimes de la bombe atomique](#3-mémorial-national-de-la-paix-de-nagasaki-aux-victimes-de-la-bombe-atomique)
 - [Kagoshima](#kagoshima)
+  - [Izumi](#izumi)
 <!--END-->
 
 # Points importants
@@ -93,7 +94,7 @@ Grande diversité de restaurants et d'enseignes à souvenirs.
 
 | Prix 💴    | Note | Site                                                  | Distance de Fukuoka | Durée conseillée | Meilleure période |
 | --------- | ---- | ----------------------------------------------------- | ------------------- | ---------------- | ----------------- |
-| *Gratuit* | ⭐⭐⚫  | [Japan travel](https://www.japan.travel/en/spot/643/) | 2h00 🚗              | 1j               | Janvier-mars      |
+| *Gratuit* | ⭐⭐⚫  | [Japan travel](https://www.japan.travel/en/spot/643/) | 2h00 🚗              | 1 jour           | Janvier-mars      |
 
 | Photo                            | Photo                            | Photo                             | Plan                                |
 | -------------------------------- | -------------------------------- | --------------------------------- | ----------------------------------- |
@@ -156,3 +157,22 @@ Voisin du musée, un mémorial minimaliste profondément émouvant. Une salle so
 
 # Kagoshima
 
+## Izumi
+
+Ville côtière paisible accueillant chaque année des milliers de grues sibériennes en migration. Il y a notamment le seul musée portant sur les grues du Japon, le Crane Park Izumi (💴220¥).
+
+**Conseil** : faire un séjour à la ferme. Pratique touristique assez courante, *Izumi City Tourism* (voir site ci-dessous) coordonne des séjours dans 18 fermes différentes, et certains hôtes parlent bien anglais. La famille hôte nous montre notamment leurs activités de récolte, nous apprend à cuisiner des plats traditionnels, à jouer à des jeux locaux et même regarder les étoiles.
+
+Il y a aussi le Hakozaki Hachiman Shrine, avec la plus grosse cloche du Japon (qu'on peut frapper gratuitement).
+
+**Conseil** : visiter les *Samurai Residences* datant du 16 siècle (et le plus vieux temple Zen du Japon, Kannoji). Possible de porter un yukata pendant une visite. Il y a aussi un musée d'histoire, le Izumi-Fumoto, exposant des armures et armements des samouraïs.
+
+**Conseil** : faire un tour de la ville en ox-cart (carrette tirée par des 🐮).
+
+| Prix 💴                                                                     | Note | Site                                                                                           | Distance de Fukuoka | Durée conseillée | Meilleure période                                                                                                 |
+| -------------------------------------------------------------------------- | ---- | ---------------------------------------------------------------------------------------------- | ------------------- | ---------------- | ----------------------------------------------------------------------------------------------------------------- |
+| *Gratuit* (ville) - *??* (journée et nuitée à la ferme + autres activités) | ⭐⭐⚫  | [Ici](https://www.izumi-navi.jp/en/) ou [Japan travel](https://www.japan.travel/en/spot/1944/) | 1h10 🚆 3h 🚗         | 1-2 jours        | Avant mars (pour voir les grues), sinon voir le PDF sur le site pour une liste des activités possibles par saison |
+
+| Grues                       | Repas avec une famille hôte                    | Résidence de samouraï                     | Cloche du Hakozaki Hachiman Shrine                  | Plan                            |
+| --------------------------- | ---------------------------------------------- | ----------------------------------------- | --------------------------------------------------- | ------------------------------- |
+| ![](images/grues-izumi.jpg) | ![](/images/izumi-dinner-with-family-host.jpg) | ![](/images/izumi-samurai-residence.webp) | ![](images/izumi-hakozaki-hachiman-shrine-bell.jpg) | ![](images/izumi-kagoshima.png) |
