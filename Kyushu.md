@@ -1,10 +1,27 @@
+# Sommaire
+
+<!--START-->
+- [Sommaire](#sommaire)
+- [Points importants](#points-importants)
+  - [Modes de déplacement](#modes-de-déplacement)
+- [Préféctures](#préféctures)
+- [Ooita](#ooita)
+  - [Pont Kokonoe Yume](#pont-kokonoe-yume)
+  - [Marais de Taderawa](#marais-de-taderawa)
+  - [Kurokawa Onsen](#kurokawa-onsen)
+- [Nagasaki](#nagasaki)
+  - [Nagasaki (la ville)](#nagasaki-la-ville)
+    - [1. Dejima](#1-dejima)
+    - [2. Musée de la Bombe atomique de Nagasaki](#2-musée-de-la-bombe-atomique-de-nagasaki)
+    - [3. Mémorial national de la paix de Nagasaki aux victimes de la bombe atomique](#3-mémorial-national-de-la-paix-de-nagasaki-aux-victimes-de-la-bombe-atomique)
+- [Kagoshima](#kagoshima)
+<!--END-->
+
 # Points importants
 
 - Les aéroports de Kumamoto, Nagasaki, Kagoshima et Oita sont éloignés des centres, il vaut mieux visiter une voiture pour les visiter.
 
 - Prévoir des espèces : "dans certaines régions rurales, trouver un DAB relève de l'anventure". Retirer dans les DAB des JP Bank ou des les 7-Eleven.
-
-- Service
 
 ## Modes de déplacement
 
@@ -13,7 +30,8 @@
 | Le shinkansen relie Fukuoka, Kugamoto et Kagoshima. Les autres grandes villes sont désservies par des trains régionaux souvent peu pratiques | Pratiques pour relier les grandes villes. Acheter les billets dans les gares routières ou les aéroports | Moyen le plus pratique de se déplacer. Se méfier des raccourcis par des routes de montagne, parfois étroits |
 
 <br><br>
-# Prefectures
+
+# Préféctures
 
 <p align="center"><img src="images/prefectures-kyushu.jpg" style="width: 250px;"></p>
 
@@ -25,7 +43,9 @@
 - Miyazaki
 - Kagoshima
 - Okinawa
+ 
 <br><br>
+
 # Ooita
 
 ## Pont Kokonoe Yume
@@ -78,7 +98,9 @@ Grande diversité de restaurants et d'enseignes à souvenirs.
 | Photo                            | Photo                            | Photo                             | Plan                                |
 | -------------------------------- | -------------------------------- | --------------------------------- | ----------------------------------- |
 | ![](images/kurokawa-onsen-1.jpg) | ![](images/kurokawa-onsen-2.jpg) | ![](images/kurokawa-onsen-3.webp) | ![](images/kurokawa-onsen-plan.png) |
+
 <br><br>
+
 # Nagasaki
 
 ## Nagasaki (la ville)
@@ -129,3 +151,8 @@ Voisin du musée, un mémorial minimaliste profondément émouvant. Une salle so
 | Photo                                     | Photo                                      |
 | ----------------------------------------- | ------------------------------------------ |
 | ![](images/nagasaki-peace-memorial-1.jpg) | ![](images/nagasaki-peace-memorial-2.webp) |
+
+<br><br>
+
+# Kagoshima
+
