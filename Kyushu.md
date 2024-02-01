@@ -12,6 +12,7 @@
   - [Marais de Taderawa](#marais-de-taderawa)
   - [Kurokawa Onsen](#kurokawa-onsen)
   - [Parcours Okubungo du Kyushu OLLE](#parcours-okubungo-du-kyushu-olle)
+  - [Onsen Hyotan](#onsen-hyotan)
 - [Nagasaki](#nagasaki)
   - [Nagasaki (la ville)](#nagasaki-la-ville)
     - [1. Dejima](#1-dejima)
@@ -138,6 +139,18 @@ Très belle randonnée de 12km traversant le coeur de la préfécture d'Oita. C'
 | -------------------------------------------- | ------------------------------------------- | ----------------------------------------- |
 | ![](images/okubongo-course-olle-statues.jpg) | ![](images/okubongo-course-olle-taketa.jpg) | ![](images/okubongo-course-olle-plan.png) |
 
+## Onsen Hyotan
+
+Datant de plus d'un siècle, cet onsen regroupe 14 bains privatifs ainsi que de nombreux bains publics dont un bain de sable. C'est l'unique onsen triple-étoilé de michelin.  
+Contraitement à beaucoup d'onsens au Japon, l'eau y could en continu donc est très pure. Il y a aussi des bains de vapeur et des spécialités culinaires, certaines chauffées à la vapeur des sources.
+
+| Prix 💴                                                   | Note | Site                                     | Distance de Fukuoka | Durée conseillée      | Meilleure période |
+| -------------------------------------------------------- | ---- | ---------------------------------------- | ------------------- | --------------------- | ----------------- |
+| `940¥/p bains publics journée` ou `2,400¥ bain privé 1h` | ⭐⭐⚫  | [ici](https://hyotan-onsen.com/english/) | 2h 🚗                | $\frac{1}{2}$ journée | N/A               |
+
+| Bain air libre                         | Bain de sable                          | Plan                               | Plan                               |
+| -------------------------------------- | -------------------------------------- | ---------------------------------- | ---------------------------------- |
+| ![](images/hyotan-onsen-open-bath.png) | ![](images/hyotan-onsen-sand-bath.png) | ![](images/hyotan-onsen-plan1.png) | ![](images/hyotan-onsen-plan2.png) |
 
 <br><br>
 
@@ -208,9 +221,9 @@ Il y a aussi le Hakozaki Hachiman Shrine, avec la plus grosse cloche du Japon (q
 
 **Conseil** : faire un tour de la ville en ox-cart (carrette tirée par des 🐮).
 
-| Prix 💴                                                                     | Note | Site                                                                                           | Distance de Fukuoka | Durée conseillée | Meilleure période                                                                                                 |
-| -------------------------------------------------------------------------- | ---- | ---------------------------------------------------------------------------------------------- | ------------------- | ---------------- | ----------------------------------------------------------------------------------------------------------------- |
-| *Gratuit* (ville) - *??* (journée et nuitée à la ferme + autres activités) | ⭐⭐⚫  | [Ici](https://www.izumi-navi.jp/en/) ou [Japan travel](https://www.japan.travel/en/spot/1944/) | 1h10 🚆 ou 3h 🚗      | 1-2 jours        | Avant mars (pour voir les grues), sinon voir le PDF sur le site pour une liste des activités possibles par saison |
+| Prix 💴                                      | Note | Site                                                                                           | Distance de Fukuoka | Durée conseillée | Meilleure période                                                                                                 |
+| ------------------------------------------- | ---- | ---------------------------------------------------------------------------------------------- | ------------------- | ---------------- | ----------------------------------------------------------------------------------------------------------------- |
+| `Gratuit (ville)`, le reste j'ai pas trouvé | ⭐⭐⚫  | [Ici](https://www.izumi-navi.jp/en/) ou [Japan travel](https://www.japan.travel/en/spot/1944/) | 1h10 🚆 ou 3h 🚗      | 1-2 jours        | Avant mars (pour voir les grues), sinon voir le PDF sur le site pour une liste des activités possibles par saison |
 
 | Grues                       | Repas avec une famille hôte                    | Résidence de samouraï                     | Cloche du Hakozaki Hachiman Shrine                  | Plan                            |
 | --------------------------- | ---------------------------------------------- | ----------------------------------------- | --------------------------------------------------- | ------------------------------- |
