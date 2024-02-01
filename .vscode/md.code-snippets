@@ -9,7 +9,7 @@
         ]
     },
     "Deux photos": {
-        "prefix": "pic",
+        "prefix": "pics",
         "scope": "markdown",
         "body": [
             "|Photo|Photo|",
@@ -24,6 +24,13 @@
             "|Photo|Photo|Photo|",
             "|-|-|-|",
             "|![](images)|![](images)|![](images)|",
+        ]
+    },
+    "Insérer photo": {
+        "prefix": "pic",
+        "scope": "markdown",
+        "body": [
+            "![](images$1)",
         ]
     }
 }

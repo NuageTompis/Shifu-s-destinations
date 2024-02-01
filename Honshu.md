@@ -1,13 +1,12 @@
 # Sommaire
 
 <!--START-->
-- [Sommaire](#sommaire)
 - [Préféctures](#préféctures)
 - [Hiroshima (Chügoku region)](#hiroshima-chügoku-region)
   - [Piste cyclable de Shimanami Kaido](#piste-cyclable-de-shimanami-kaido)
-    - [Principaux points d'intérêt](#principaux-points-dintérêt)
-    - [1.Temple de Kosan-ji](#1temple-de-kosan-ji)
-    - [2. Sanctuaire d'Oyamazumi-jinja](#2-sanctuaire-doyamazumi-jinja)
+    - [Principaux points d'intérêt](#principaux-points-d'intérêt)
+    - [1.Temple de Kosan-ji](#1-temple-de-kosan-ji)
+    - [2. Sanctuaire d'Oyamazumi-jinja](#2-sanctuaire-d'oyamazumi-jinja)
     - [3. Restaurant de la gare maritime de Naoshima](#3-restaurant-de-la-gare-maritime-de-naoshima)
     - [4. Parc Yoshiumi Rose](#4-parc-yoshiumi-rose)
     - [5. Observatoire de Kirosan](#5-observatoire-de-kirosan)
