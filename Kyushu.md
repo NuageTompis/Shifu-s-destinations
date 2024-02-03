@@ -39,6 +39,8 @@
 | -------------------------------------------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------- | ----------------------------------------------------------------------------------------------------------- |
 | Le shinkansen relie Fukuoka, Kugamoto et Kagoshima. Les autres grandes villes sont désservies par des trains régionaux souvent peu pratiques | Pratiques pour relier les grandes villes. Acheter les billets dans les gares routières ou les aéroports | Moyen le plus pratique de se déplacer. Se méfier des raccourcis par des routes de montagne, parfois étroits |
 
+![](images/kyushu-main-lines.gif)
+
 <br><br>
 
 # Préféctures
@@ -52,7 +54,6 @@
 - Ooita
 - Miyazaki
 - Kagoshima
-- Okinawa
  
 <br><br>
 
@@ -146,7 +147,7 @@ Contraitement à beaucoup d'onsens au Japon, l'eau y could en continu donc est t
 
 | Prix 💴                                                   | Note | Site                                     | Distance de Fukuoka | Durée conseillée      | Meilleure période |
 | -------------------------------------------------------- | ---- | ---------------------------------------- | ------------------- | --------------------- | ----------------- |
-| `940¥/p bains publics journée` ou `2,400¥ bain privé 1h` | ⭐⭐⚫  | [ici](https://hyotan-onsen.com/english/) | 2h 🚗                | $\frac{1}{2}$ journée | N/A               |
+| `940¥/p bains publics journée` ou `2,400¥ bain privé 1h` | ⭐⭐⚫  | [Ici](https://hyotan-onsen.com/english/) | 2h 🚗                | $\frac{1}{2}$ journée | N/A               |
 
 | Bain air libre                         | Bain de sable                          | Plan                               | Plan                               |
 | -------------------------------------- | -------------------------------------- | ---------------------------------- | ---------------------------------- |
@@ -171,13 +172,13 @@ Avant les destructions de la Seconde Guerre mondiale, Nagasaki ainsi que d'autre
 Île artificielle en forme d'éventail dans le port de Nagasaki.  
 **Pour la petite culture** : En 1641 le shogunat Tokugawa bannit les étrangers de tout le Japon 😐, à une excéption près : *Dejima*. Jusque dans les années 1850, cette parcelle néerlandaise de 15 000m² était le seul lieu où les étrangers étaient tolérés au Japon.
 
-| Prix 💴 | Note | Site                                      | Durée conseillée |
-| ------ | ---- | ----------------------------------------- | ---------------- |
-| 510¥   | ⭐⚫⚫  | [Ici](https://nagasakidejima.jp/english/) | N/A              |
+| Prix 💴 | Note | Site                                                                                                 | Durée conseillée |
+| ------ | ---- | ---------------------------------------------------------------------------------------------------- | ---------------- |
+| 510¥   | ⭐⚫⚫  | [Ici](https://nagasakidejima.jp/english/) ou [Japan Guide](https://www.japan-guide.com/e/e4408.html) | N/A              |
 
-| Photo                             | Photo                              |
-| --------------------------------- | ---------------------------------- |
-| ![](images/dejima-nagasaki-1.jpg) | ![](images/dejima-nagasaki-2.webp) |
+| Dessin                            | Photo                           | Reproduction                       |
+| --------------------------------- | ------------------------------- | ---------------------------------- |
+| ![](images/dejima-nagasaki-1.jpg) | ![](images/nagasaki-dejima.jpg) | ![](images/dejima-nagasaki-2.webp) |
 
 ### 2. Musée de la Bombe atomique de Nagasaki
 

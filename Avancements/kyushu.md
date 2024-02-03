@@ -1,0 +1,115 @@
+- [ ] Préfécture de Fukuoka
+  - [ ] Fukuoka 🏙️
+    - [ ] Hakata
+      - [ ] Le yatai Mamichan et les ramens de Hakata
+  - [ ] Dazaifu 🏙️
+  - [ ] Île d'Oshima
+    - [ ] Temple Munakata Taisha
+    - [x] Parcours Munakata Oshima du Kyushu OLLE
+      - [x] Micro-île Yume no Sayoshima
+  - [ ] Kitakyushu 🏙️
+    - [ ] Château de Kokura
+    - [ ] Sakuras Kawauchi Fujien
+  - [ ] Itoshima 🏙️
+    - [ ] Cabanes à huîtres d'Itoshima
+  - [ ] Randonnée Mimaji
+___
+- [ ] Préfécture de Kagoshima
+  - [ ] Île Yakushima
+    - [ ] Cèdre Jomon-sugi
+    - [ ] Itinéraire Shiratani-unsuikyo
+    - [ ] Forêt Yakusugi Land
+    - [ ] Itinéraire Miyanoura-dake
+  - [ ] Île Amami Oshima
+  - [ ] Parc national Kirishima
+  - [ ] Péninsule Satsuma
+    - [ ] Station thermale Ibusuki (Ibusuki Sunamushi Kaikan Saraku)
+  - [ ] Kagoshima 🏙️
+    - [ ] Jardin Sengan-en
+  - [ ] Île Tokunoshima
+  - [x] Izumi 🏙️
+  - [ ] Observatoire de Yunohira
+  - [ ] Volcan Sakurajima
+  - [ ] Cave Mizonokuchi
+___
+- [ ] Préfécture de Kumamoto
+  - [x] Kurokawa Onsen 🏙️
+  - [ ] Volcan Aso
+    - [ ] Daikanbo, la caldeira du mont Aso
+  - [ ] Kumamoto 🏙️
+    - [ ] Château Kumamoto-jo
+  - [ ] Île Amakusa
+  - [ ] Minamata 🏙️
+  - [ ] Village Waita Onsen 🏙️
+    - [ ] Onsens privatifs Yuka
+  - [ ] Forgeron de sabres Matsunaga
+  - [ ] Ryokan Yamaga Onsen Seiryuso
+  - [ ] Temple Kuratake
+  - [ ] Temple Kamishikimi Kumanoimasu
+  - [ ] Route Nagabeta Seabed Road
+___
+- [ ] Préfécture de Miyazaki
+  - [ ] Takachiho 🏙️
+    - [ ] Gorges de Takachiho
+  - [ ] Miyazaki 🏙️
+  - [ ] Temple Udo-jingū
+  - [ ] Temple Amanoiwato-jinja
+___
+- [ ] Préfécture de Nagasaki
+  - [ ] Nagasaki 🏙️
+    - [ ] Parc Huis Ten Bosch
+    - [ ] Péninsule Shimabara
+      - [ ] Château Shimabara-jo
+      - [ ] Station Ōmisaki
+    - [x] Dejima
+      - [ ] Ajouter photo
+    - [x] Musée de la bombe atomique de Nagasaki
+    - [x] Mémorial national de la paix de Nagasaki aux victimes de la bombe atomique
+    - [ ] Parc de la Paix (dont statue de la Paix)
+    - [ ] Parc du point zéro
+    - [ ] Cathédrale d'Urakami
+    - [ ] Musée-mémorial Takashi Nagai
+    - [ ] Torii à un seul pilier
+  - [ ] Île Hirado
+  - [ ] Îles Goto
+    - [ ] Centre de loisirs SUP Goto Leisure
+    - [ ] Randonnée jusqu'au phare d'Osezaki
+    - [ ] Patrimoine des "Chrétiens cachés"
+    - [ ] Temples du pélerinage de Shikoku
+    - [ ] Auberge Oteragoto
+    - [ ] Église de Dozaki
+    - [ ] Église d'Egami
+  - [ ] Higashisonogi 🏙️
+    - [ ] Séjour thé vert
+  - [ ] Ojika-jima 🏙️
+    - [ ] Maisons traditionnelles, les kominka
+___
+- [ ] Préfécture de Oita
+  - [ ] Oita 🏙️
+    - [ ] Auberge Nishinokubo
+  - [ ] Yufuin 🏙️
+  - [ ] Yunohira Onsen 🏙️
+  - [ ] Péninsule Kunisaki
+    - [ ] Kitsuki
+  - [ ] Beppu 🏙️
+    - [x] Onsen Hyotan
+  - [ ] Usuki 🏙️
+  - [ ] Montagnes Kuju
+  - [x] Pont Kokonoe Yume
+  - [x] Marais de Taderawa
+  - [x] Parcours Okubungo du Kyushu OLLE
+  - [ ] Usa 🏙️
+    - [ ] Séjour à la ferme Ajimu
+  - [ ] Onsen Lamune
+  - [ ] Onsen Sanso Tensui Ryokan
+___
+- [ ] Préfécture de Saga
+  - [ ] Parc Yoshinogari
+  - [ ] Arita 🏙️
+  - [ ] Imari 🏙️
+  - [ ] Village d'Okawachiyama 🏙️
+  - [ ] Ureshino Onsen 🏙️
+  - [ ] Karatsu 🏙️
+  - [ ] Takeo Onsen 🏙️
+  - [ ] Kashima 🏙️
+    - [ ] Temple Yutoku Inari
