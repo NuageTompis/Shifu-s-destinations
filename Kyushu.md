@@ -176,9 +176,9 @@ Avant les destructions de la Seconde Guerre mondiale, Nagasaki ainsi que d'autre
 | ------ | ---- | ---------------------------------------------------------------------------------------------------- | ---------------- |
 | 510¥   | ⭐⚫⚫  | [Ici](https://nagasakidejima.jp/english/) ou [Japan Guide](https://www.japan-guide.com/e/e4408.html) | N/A              |
 
-| Dessin                            | Photo                           | Reproduction                       |
-| --------------------------------- | ------------------------------- | ---------------------------------- |
-| ![](images/dejima-nagasaki-1.jpg) | ![](images/nagasaki-dejima.jpg) | ![](images/dejima-nagasaki-2.webp) |
+| Dessin de la configuration originale | Photo                           | Reproduction                       |
+| ------------------------------------ | ------------------------------- | ---------------------------------- |
+| ![](images/dejima-nagasaki-1.jpg)    | ![](images/nagasaki-dejima.jpg) | ![](images/dejima-nagasaki-2.webp) |
 
 ### 2. Musée de la Bombe atomique de Nagasaki
 

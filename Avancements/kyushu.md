@@ -1,3 +1,5 @@
+> Note : l'icône 🏙️ signifie que l'élément est une ville
+
 - [ ] Préfécture de Fukuoka
   - [ ] Fukuoka 🏙️
     - [ ] Hakata
