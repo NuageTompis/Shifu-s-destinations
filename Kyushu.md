@@ -52,14 +52,6 @@
 
 <p align="center"><img src="images/prefectures-kyushu.jpg" style="width: 250px;"></p>
 
-- Fukuoka
-- Saga
-- Nagasaki
-- Kumamoto
-- Ooita
-- Miyazaki
-- Kagoshima
- 
 <br><br>
 
 # Fukuoka
@@ -80,7 +72,7 @@ L'île comporte des auberges et des minshuku (version low-budget d'un Ryokan).
 
 <br><br>
 
-# Ooita
+# Oita
 
 ## Pont Kokonoe Yume
 
