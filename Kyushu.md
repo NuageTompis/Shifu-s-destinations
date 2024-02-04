@@ -7,7 +7,7 @@
 - [Préféctures](#préféctures)
 - [Fukuoka](#fukuoka)
   - [Parcours Munakata Oshima du Kyushu OLLE](#parcours-munakata-oshima-du-kyushu-olle)
-- [Ooita](#ooita)
+- [Oita](#oita)
   - [Pont Kokonoe Yume](#pont-kokonoe-yume)
   - [Marais de Taderawa](#marais-de-taderawa)
   - [Kurokawa Onsen](#kurokawa-onsen)
