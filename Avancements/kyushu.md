@@ -1,5 +1,5 @@
 > Note : l'icône 🏙️ signifie que l'élément est une ville
-
+___
 - [ ] Préfécture de Fukuoka
   - [ ] Fukuoka 🏙️
     - [ ] Hakata
@@ -17,11 +17,11 @@
   - [ ] Randonnée Mimaji
 ___
 - [ ] Préfécture de Kagoshima
-  - [ ] Île Yakushima
-    - [ ] Cèdre Jomon-sugi
-    - [ ] Itinéraire Shiratani-unsuikyo
-    - [ ] Forêt Yakusugi Land
-    - [ ] Itinéraire Miyanoura-dake
+  - [x] Île Yakushima
+    - [x] Cèdre Jomon-sugi
+    - [x] Itinéraire Shiratani-unsuikyo
+    - [x] Forêt Yakusugi Land
+    - [x] Itinéraire Miyanoura-dake
   - [ ] Île Amami Oshima
   - [ ] Parc national Kirishima
   - [ ] Péninsule Satsuma
@@ -64,7 +64,6 @@ ___
       - [ ] Château Shimabara-jo
       - [ ] Station Ōmisaki
     - [x] Dejima
-      - [ ] Ajouter photo
     - [x] Musée de la bombe atomique de Nagasaki
     - [x] Mémorial national de la paix de Nagasaki aux victimes de la bombe atomique
     - [ ] Parc de la Paix (dont statue de la Paix)

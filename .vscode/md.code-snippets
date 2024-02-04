@@ -8,6 +8,15 @@
             "| *Gratuit* | ⭐⚫⚫  | [Japan travel]() | xhxx                | N/A              | N/A               |",
         ]
     },
+    "Destination summary subtemplate": {
+        "prefix": "subtemp",
+        "scope": "markdown",
+        "body": [
+            "| Prix 💴   | Note | Site                 | Durée conseillée | Meilleure période |",
+            "| --------- | ---- | -------------------- | ---------------- | ----------------- |",
+            "| *Gratuit* | ⭐⚫⚫  | [Japan travel]() |  N/A              | N/A               |",
+        ]
+    },
     "Deux photos": {
         "prefix": "pics",
         "scope": "markdown",

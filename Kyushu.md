@@ -20,6 +20,11 @@
     - [3. Mémorial national de la paix de Nagasaki aux victimes de la bombe atomique](#3-mémorial-national-de-la-paix-de-nagasaki-aux-victimes-de-la-bombe-atomique)
 - [Kagoshima](#kagoshima)
   - [Izumi](#izumi)
+  - [Île Yakushima](#île-yakushima)
+    - [1. Cèdre Jomon-sugi et son parcours](#1-cèdre-jomon-sugi-et-son-parcours)
+    - [2. Itinéraire Shiratani-unsuikyo](#2-itinéraire-shiratani-unsuikyo)
+    - [3. Forêt Yakusugi Land](#3-forêt-yakusugi-land)
+    - [4. Itinéraire Miyanoura-dake](#4-itinéraire-miyanoura-dake)
 <!--END-->
 
 # Points importants
@@ -229,3 +234,72 @@ Il y a aussi le Hakozaki Hachiman Shrine, avec la plus grosse cloche du Japon (q
 | Grues                       | Repas avec une famille hôte                    | Résidence de samouraï                     | Cloche du Hakozaki Hachiman Shrine                  | Plan                            |
 | --------------------------- | ---------------------------------------------- | ----------------------------------------- | --------------------------------------------------- | ------------------------------- |
 | ![](images/grues-izumi.jpg) | ![](/images/izumi-dinner-with-family-host.jpg) | ![](/images/izumi-samurai-residence.webp) | ![](images/izumi-hakozaki-hachiman-shrine-bell.jpg) | ![](images/izumi-kagoshima.png) |
+
+## Île Yakushima
+
+Île tropicale couverte d'une forêt de cèdres, dont certains des plus vieux arbres japonais. Ceux dépassant le millénaires sont appelés *yakusugi*, provenant de *Yakushima* et *sugi*, le terme japonais pour "cèdre". Le plus ancien avoisinerait 7 000 ans.  
+Certains sites sont nommés patrimoine mondial de l'UNSECO, beaucoup de touristes se rendent ici pour faire des randonnées.  
+Apparemment il pleut beaucoup `a local saying claiming that it rains "35 days a month"`.  
+Les principales randonnées proposent des plans et brochures en anglais au point de départ.
+
+| Note | Site                                                    | Distance de Fukuoka | Durée conseillée | Plan                           |
+| ---- | ------------------------------------------------------- | ------------------- | ---------------- | ------------------------------ |
+| ⭐⭐⭐  | [Japan Guide](https://www.japan-guide.com/e/e4650.html) | 2h 🚆 + 2-3h ⛵       | N/A              | ![](images/yakushima-plan.png) |
+
+### 1. Cèdre Jomon-sugi et son parcours
+
+Parmi les "grands classiques" de Kyushu, un immense yakusugi datant de 2000 à 7000 ans. Il reste imposant même s'il n'est plus vivant. C'est l'attraction principale de l'île.  
+En général les randonneurs rejoignent Jomon-sugi par la randonnée Arakawa-tozanguchi, un sentier de 19,5km (8-10h aller-retour). Le parcours inclut d'autres arbres bien connus comme le Meotosugi (une paire d'arbre qui se rassemblent à plusieurs mètres du sol), ou encore le Daiosugi, un des plus gros arbres de l'île.  
+*Attention* : de mars à novembre, si on choisit le parcours Arakawa-tozanguchi, on doit prendre un bus depuis le musée Yakusugi (qui relate l'histoire de l'île, et notamment des forêts de cèdres) jusqu'au départ (💴 2,400¥ aller-retour, 🕝 40min).  
+Il est possible de passer la nuit sur la montagne.
+
+| Prix 💴               | Note | Site                                                    | Durée conseillée | Meilleure période                                                                 |
+| -------------------- | ---- | ------------------------------------------------------- | ---------------- | --------------------------------------------------------------------------------- |
+| Variable (transport) | ⭐⭐⚫  | [Japan Guide](https://www.japan-guide.com/e/e4653.html) | 8-10h            | Surtout pas entre mi-juillet et mi-septembre (vacances), ni durant la Golden Week |
+
+| Le Jomon-sugi                       | Première partie du sentier                    | Seconde partie du sentier                      | Le Meotosugi (je crois)                      |
+| ----------------------------------- | --------------------------------------------- | ---------------------------------------------- | -------------------------------------------- |
+| ![](images/yakushima-jomonsugi.jpg) | ![](images/akarawa-tozanguchi-first-part.jpg) | ![](images/akarawa-tozanguchi-second-part.jpg) | ![](images/akarawa-tozanguchi-meotosugi.jpg) |
+
+### 2. Itinéraire Shiratani-unsuikyo
+
+Parcours plus varié que le Arakawa-tozanguchi, il passe par des cascades, rochers couverts de mousse et un yakusugi imposant qui domine le parcours de Taikoiwa. Ses paysages ont inspiré l'univers de Mononoke Hime (Princesse Mononoke).  
+Plusieurs variantes du parcours sont possibles, et on peut rejoindre l'itinéraire Arakawa-tozanguchi si on le souhaite.
+
+> Note : on peut avoir un tarif réduit si on prend aussi le ticket pour Yakusugi Land
+
+| Prix 💴   | Note | Site                                                    | Durée conseillée                             | Meilleure période |
+| -------- | ---- | ------------------------------------------------------- | -------------------------------------------- | ----------------- |
+| 300-500¥ | ⭐⭐⭐  | [Japan Guide](https://www.japan-guide.com/e/e4654.html) | 3-4h (petite version) - 12h (grande version) | N/A               |
+
+| Photo                               | Photo                               | Photo                               |
+| ----------------------------------- | ----------------------------------- | ----------------------------------- |
+| ![](images/shiratani-unsuikyo1.jpg) | ![](images/shiratani-unsuikyo2.jpg) | ![](images/shiratani-unsuikyo3.jpg) |
+
+
+### 3. Forêt Yakusugi Land
+
+Parc naturel remplis de yakusugi. Les chemins sont bien aménagés, notamment avec diverses passerelles qui traversent les cours d'eau. Si on est pressés on peut tout de même voir de beaux cèdres sans trop s'enfoncer dans la forêt. Le parc comprend une grande variété de parcours (généralement entre 30min et 2h30). Il y a des panneaux en anglais sur le chemin.
+
+> Note : on peut avoir un tarif réduit si on prend aussi le ticket pour Shiratani-unsuikyo
+
+| Prix 💴   | Note | Site                                                                                                       | Durée conseillée | Meilleure période |
+| -------- | ---- | ---------------------------------------------------------------------------------------------------------- | ---------------- | ----------------- |
+| 300-500¥ | ⭐⭐⚫  | [Ici en full-japonais](https://y-rekumori.com/) ou [Japan Guide](https://www.japan-guide.com/e/e4655.html) | 30min - 2h30     | N/A               |
+
+| Sentier                        | Passerelle                     | Le Kigensugi                            |
+| ------------------------------ | ------------------------------ | --------------------------------------- |
+| ![](images/yakusugi-land1.jpg) | ![](images/yakusugi-land2.jpg) | ![](images/yakusugi-land-kigensugi.jpg) |
+
+### 4. Itinéraire Miyanoura-dake
+
+Plus ancien parcours de Yakushima, il mène au Miyanoura-dake (1,936m), point culminant de l'île et de tout Kyushu ! La randonnée prend environ 7h et propose une flore et une faune uniques.
+
+| Prix 💴 | Note | Site                                                                                 | Durée conseillée | Meilleure période |
+| ------ | ---- | ------------------------------------------------------------------------------------ | ---------------- | ----------------- |
+| ?      | ⭐⭐⚫  | [Japan travel](https://en.japantravel.com/kagoshima/mt-miyanoura-in-yakushima/32956) | 7h à 12h         | N/A               |
+
+| Photo                           | Photo                           | Photo                           |
+| ------------------------------- | ------------------------------- | ------------------------------- |
+| ![](images/miyanoura-dake1.jpg) | ![](images/miyanoura-dake2.jpg) | ![](images/miyanoura-dake3.jpg) |
+
