@@ -39,7 +39,7 @@ ___
   - [ ] Volcan Aso
     - [ ] Daikanbo, la caldeira du mont Aso
   - [ ] Kumamoto 🏙️
-    - [ ] Château Kumamoto-jo
+    - [x] Château Kumamoto-jo
   - [ ] Île Amakusa
   - [ ] Minamata 🏙️
   - [ ] Village Waita Onsen 🏙️

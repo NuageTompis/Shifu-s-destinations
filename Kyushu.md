@@ -25,6 +25,9 @@
     - [2. Itinéraire Shiratani-unsuikyo](#2-itinéraire-shiratani-unsuikyo)
     - [3. Forêt Yakusugi Land](#3-forêt-yakusugi-land)
     - [4. Itinéraire Miyanoura-dake](#4-itinéraire-miyanoura-dake)
+- [Kumamoto](#kumamoto)
+  - [Kumamoto (la ville)](#kumamoto-la-ville)
+    - [1. Le château Kumamoto-jo](#1-le-château-kumamoto-jo)
 <!--END-->
 
 # Points importants
@@ -231,19 +234,19 @@ Il y a aussi le Hakozaki Hachiman Shrine, avec la plus grosse cloche du Japon (q
 
 Île tropicale couverte d'une forêt de cèdres, dont certains des plus vieux arbres japonais. Ceux dépassant le millénaires sont appelés *yakusugi*, provenant de *Yakushima* et *sugi*, le terme japonais pour "cèdre". Le plus ancien avoisinerait 7 000 ans.  
 Certains sites sont nommés patrimoine mondial de l'UNSECO, beaucoup de touristes se rendent ici pour faire des randonnées.  
-Apparemment il pleut beaucoup `a local saying claiming that it rains "35 days a month"`.  
-Les principales randonnées proposent des plans et brochures en anglais au point de départ.
+Apparemment il pleut beaucoup `a local saying claiming that it rains "35 days a month"`. Les montagnes constituent l'endroit le plus humide du Japon.  
+Les principales randonnées proposent des plans de route (un tozan todokede) et brochures en anglais au point de départ. Le site [Yakumonkey](https://yakumonkey.com) propose un guide pour pratiquer la randonnée sur l'île.  
+Il est possible de passer la nuit sur la montagne, et donc de faire des randonnées sur plusieurs jours.
 
-| Note | Site                                                    | Distance de Fukuoka | Durée conseillée | Plan                           |
-| ---- | ------------------------------------------------------- | ------------------- | ---------------- | ------------------------------ |
-| ⭐⭐⭐  | [Japan Guide](https://www.japan-guide.com/e/e4650.html) | 2h 🚆 + 2-3h ⛵       | N/A              | ![](images/yakushima-plan.png) |
+| Note | Site                                                                                                                                     | Distance de Fukuoka | Durée conseillée | Plan                           |
+| ---- | ---------------------------------------------------------------------------------------------------------------------------------------- | ------------------- | ---------------- | ------------------------------ |
+| ⭐⭐⭐  | [Pour la randonnée](https://www.yakumonkey.com/yakushima-guide-book-update-2018) [Japan Guide](https://www.japan-guide.com/e/e4650.html) | 2h 🚆 + 2-3h ⛵       | N/A              | ![](images/yakushima-plan.png) |
 
 ### 1. Cèdre Jomon-sugi et son parcours
 
 Parmi les "grands classiques" de Kyushu, un immense yakusugi datant de 2000 à 7000 ans. Il reste imposant même s'il n'est plus vivant. C'est l'attraction principale de l'île.  
 En général les randonneurs rejoignent Jomon-sugi par la randonnée Arakawa-tozanguchi, un sentier de 19,5km (8-10h aller-retour). Le parcours inclut d'autres arbres bien connus comme le Meotosugi (une paire d'arbre qui se rassemblent à plusieurs mètres du sol), ou encore le Daiosugi, un des plus gros arbres de l'île.  
 *Attention* : de mars à novembre, si on choisit le parcours Arakawa-tozanguchi, on doit prendre un bus depuis le musée Yakusugi (qui relate l'histoire de l'île, et notamment des forêts de cèdres) jusqu'au départ (💴 2,400¥ aller-retour, 🕝 40min).  
-Il est possible de passer la nuit sur la montagne.
 
 | Prix 💴               | Note | Site                                                    | Durée conseillée | Meilleure période                                                                 |
 | -------------------- | ---- | ------------------------------------------------------- | ---------------- | --------------------------------------------------------------------------------- |
@@ -295,3 +298,24 @@ Plus ancien parcours de Yakushima, il mène au Miyanoura-dake (1,936m), point cu
 | ------------------------------- | ------------------------------- | ------------------------------- |
 | ![](images/miyanoura-dake1.jpg) | ![](images/miyanoura-dake2.jpg) | ![](images/miyanoura-dake3.jpg) |
 
+<br><br>
+
+# Kumamoto
+
+## Kumamoto (la ville)
+
+### 1. Le château Kumamoto-jo
+
+Bâti entre 1601 et 1607, c'est l'un des châteaux les plus spectaculaires du Japon. Il propose une grande variété de bâtiments, notamment la tour Uto ou le palais Honmaru Goten, qui a été reconstruit pour le 400e anniversaire du château et ouvert en 2008.  
+À traver les époques, le château a subi plusieurs destructions, dont la guerre civile de Seinan durant laquelle il a joué un rôle crucial en résistant à un siège de deux mois.  
+Le château a vu nombre de ses bâtiments détruits et a connu plusieurs restaurations, mais récemment (en 2016), un séisme l'a frappé, causant l'effondrement de plusieurs bâtiments et nécessitant la fermeture du château. Le donjon a réouvert en 2021 mais une bonne partie du château reste hors d'accès, comme le palais Honmaru Goten.  
+La tour Uto est un des rares bâtiments originaux encore intacts aujourd'hui.  
+Les quelques 800 cerisiers de ses jardins en font une destination lorsqu'ils sont en fleurs.
+
+| Prix 💴 | Note | Site                                                    | Durée conseillée | Meilleure période                         |
+| ------ | ---- | ------------------------------------------------------- | ---------------- | ----------------------------------------- |
+| 800¥   | ⭐⚫⚫  | [Japan Gudie](https://www.japan-guide.com/e/e4501.html) | N/A              | Fin mars - début avril (sakuras en fleur) |
+
+| Photo                        | Une salle du palais Honmaru Goten (fermée à cause du séisme) | La tour Uto                  |
+| ---------------------------- | ------------------------------------------------------------ | ---------------------------- |
+| ![](images/kumamoto-jo1.jpg) | ![](images/kumamoto-jo-honmaru-goten-palace.jpg)             | ![](images/kumamoto-jo2.jpg) |
