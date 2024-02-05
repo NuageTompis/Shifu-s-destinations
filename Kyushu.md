@@ -28,6 +28,7 @@
 - [Kumamoto](#kumamoto)
   - [Kumamoto (la ville)](#kumamoto-la-ville)
     - [1. Le château Kumamoto-jo](#1-le-château-kumamoto-jo)
+    - [2. Le jardin Suizenji](#2-le-jardin-suizenji)
 <!--END-->
 
 # Points importants
@@ -310,12 +311,27 @@ Bâti entre 1601 et 1607, c'est l'un des châteaux les plus spectaculaires du Ja
 À traver les époques, le château a subi plusieurs destructions, dont la guerre civile de Seinan durant laquelle il a joué un rôle crucial en résistant à un siège de deux mois.  
 Le château a vu nombre de ses bâtiments détruits et a connu plusieurs restaurations, mais récemment (en 2016), un séisme l'a frappé, causant l'effondrement de plusieurs bâtiments et nécessitant la fermeture du château. Le donjon a réouvert en 2021 mais une bonne partie du château reste hors d'accès, comme le palais Honmaru Goten.  
 La tour Uto est un des rares bâtiments originaux encore intacts aujourd'hui.  
-Les quelques 800 cerisiers de ses jardins en font une destination lorsqu'ils sont en fleurs.
+Les quelques 800 cerisiers de ses jardins en font une destination lorsqu'ils sont en fleurs.  
 
-| Prix 💴 | Note | Site                                                    | Durée conseillée | Meilleure période                         |
-| ------ | ---- | ------------------------------------------------------- | ---------------- | ----------------------------------------- |
-| 800¥   | ⭐⚫⚫  | [Japan Gudie](https://www.japan-guide.com/e/e4501.html) | N/A              | Fin mars - début avril (sakuras en fleur) |
+> Note : un festival de printemps ainsi qu'un festival d'automne ont lieu encore aujourd'hui au château, mais impossible de trouver les dates précises. Aussi il on peut acheter un forfait pour avoir accès à un musée.
+
+| Prix 💴 | Note | Site                                                                                                   | Durée conseillée | Meilleure période                         |
+| ------ | ---- | ------------------------------------------------------------------------------------------------------ | ---------------- | ----------------------------------------- |
+| 800¥   | ⭐⚫⚫  | [Ici](https://castle.kumamoto-guide.jp/en/) ou [Japan Gudie](https://www.japan-guide.com/e/e4501.html) | N/A              | Fin mars - début avril (sakuras en fleur) |
 
 | Photo                        | Une salle du palais Honmaru Goten (fermée à cause du séisme) | La tour Uto                  |
 | ---------------------------- | ------------------------------------------------------------ | ---------------------------- |
 | ![](images/kumamoto-jo1.jpg) | ![](images/kumamoto-jo-honmaru-goten-palace.jpg)             | ![](images/kumamoto-jo2.jpg) |
+
+### 2. Le jardin Suizenji
+
+Splentide jardin datant du XVIIe siècle. Il représente une reproduction des stations de la route Tokaido, qui reliait Edo et Kyoto. L'eau qui y coule est d'une grande qualité et utilisée pour faire des thés, si bien qu'une maison de thé a été contruite en son sein.  
+Le bassin abrite des carpes koi et de jolis oiseaux. On peut le traverser sur un pont fort sympathique.
+
+| Prix 💴   | Note | Site                                                                                                                                                                | Durée conseillée | Meilleure période |
+| -------- | ---- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ---------------- | ----------------- |
+| 350-400¥ | ⭐⚫⚫  | [Ici en full-japonais](http://www.suizenji.or.jp/) [Japan travel](https://www.japan.travel/en/spot/636/) ou [Japan Guide](https://www.japan-guide.com/e/e4502.html) | N/A              | N/A               |
+
+| Photo                           | Le Izume Shrine                               | Habitant du parc                      |
+| ------------------------------- | --------------------------------------------- | ------------------------------------- |
+| ![](images/suizenji-garden.jpg) | ![](images/suizenji-garden-izumi-shrine.webp) | ![](images/suizenji-garden-bird.webp) |

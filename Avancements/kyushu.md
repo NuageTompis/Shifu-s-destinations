@@ -40,6 +40,7 @@ ___
     - [ ] Daikanbo, la caldeira du mont Aso
   - [ ] Kumamoto 🏙️
     - [x] Château Kumamoto-jo
+    - [x] Jardin Suizenji
   - [ ] Île Amakusa
   - [ ] Minamata 🏙️
   - [ ] Village Waita Onsen 🏙️
