@@ -27,7 +27,7 @@ ___
   - [ ] Péninsule Satsuma
     - [ ] Station thermale Ibusuki (Ibusuki Sunamushi Kaikan Saraku)
   - [ ] Kagoshima 🏙️
-    - [ ] Jardin Sengan-en
+    - [x] Jardin Sengan-en
   - [ ] Île Tokunoshima
   - [x] Izumi 🏙️
   - [ ] Observatoire de Yunohira

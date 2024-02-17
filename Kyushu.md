@@ -299,6 +299,28 @@ Plus ancien parcours de Yakushima, il mène au Miyanoura-dake (1,936m), point cu
 | ------------------------------- | ------------------------------- | ------------------------------- |
 | ![](images/miyanoura-dake1.jpg) | ![](images/miyanoura-dake2.jpg) | ![](images/miyanoura-dake3.jpg) |
 
+## Kagoshima (la ville)
+
+### 1. Jardin Sengan-en
+
+Datant du milieu du XVIIe siècle, c'est un domaine valonné de 5 hectares fait de jardins, mares, ruisseaux, bambous et de sentiers au bord de la baie Kinko-wan.  
+Les principales particularités du jardin sont l'utilisation de la baie de Kagoshima ainsi que dun Sakurajima comme paysages empruntés.  
+Au centre du jardin se trouve la résidence Iso, qui a servi de foyer au clan Shimazu, qui a construit le jardin.  
+Plusieurs éléments du Senganen sont classés patrimoine mondial, notamment des vestiges du *Shuseikan Industrial Complex* qui produisait du fer pour les navires.
+
+"Si vous vous trouvez dans la région de Kagoshima, cette destination est à placer en tête de votre liste de visites."
+
+> Attention : le bâtiment principal du musée est fermé jusqu'à octobre 2024 pour cause de rénovations 😢  
+> Certains restes du complexe industriel sont éloignés du parc et difficiles d'accès
+
+| Prix 💴                                                                                             | Note | Site                                                                                                             | Durée conseillée | Meilleure période                                                                                                           |
+| -------------------------------------------------------------------------------------------------- | ---- | ---------------------------------------------------------------------------------------------------------------- | ---------------- | --------------------------------------------------------------------------------------------------------------------------- |
+| `200¥ (résidence Ijinkan)`, `1,000¥ (jardin & musée)` ou `1,200¥ (jardin & musée + résidence Iso)` | ⭐⭐⚫  | [Japan Guide](https://www.japan-guide.com/e/e4602.html) ou [Japan travel](https://www.japan.travel/fr/spot/602/) | 1 jour           | Sa flore variée fait du jardin une destination intéressante peu importe la saison (janvier-avril pour les sakuras en fleur) |
+
+| Jardin                               | Jardin                               | Résidence Ijinkan                           |
+| ------------------------------------ | ------------------------------------ | ------------------------------------------- |
+| ![](images/sengan-en-kagoshima1.jpg) | ![](images/sengan-en-kagoshima2.jpg) | ![](images/sengan-en-kagoshima-ijinkan.jpg) |
+
 <br><br>
 
 # Kumamoto
@@ -328,9 +350,9 @@ Les quelques 800 cerisiers de ses jardins en font une destination lorsqu'ils son
 Splentide jardin datant du XVIIe siècle. Il représente une reproduction des stations de la route Tokaido, qui reliait Edo et Kyoto. L'eau qui y coule est d'une grande qualité et utilisée pour faire des thés, si bien qu'une maison de thé a été contruite en son sein.  
 Le bassin abrite des carpes koi et de jolis oiseaux. On peut le traverser sur un pont fort sympathique.
 
-| Prix 💴   | Note | Site                                                                                                                                                                | Durée conseillée | Meilleure période |
-| -------- | ---- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ---------------- | ----------------- |
-| 350-400¥ | ⭐⚫⚫  | [Ici en full-japonais](http://www.suizenji.or.jp/) [Japan travel](https://www.japan.travel/en/spot/636/) ou [Japan Guide](https://www.japan-guide.com/e/e4502.html) | N/A              | N/A               |
+| Prix 💴   | Note | Site                                                                                                                                                                   | Durée conseillée | Meilleure période |
+| -------- | ---- | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ---------------- | ----------------- |
+| 350-400¥ | ⭐⚫⚫  | [Ici en full-japonais](http://www.suizenji.or.jp/) ou [Japan travel](https://www.japan.travel/en/spot/636/) ou [Japan Guide](https://www.japan-guide.com/e/e4502.html) | N/A              | N/A               |
 
 | Photo                           | Le Izume Shrine                               | Habitant du parc                      |
 | ------------------------------- | --------------------------------------------- | ------------------------------------- |
