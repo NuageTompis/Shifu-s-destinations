@@ -80,7 +80,7 @@ L'île comporte des auberges et des minshuku (version low-budget d'un Ryokan).
 ## Yanagawa
 
 Surnommée la "Venise de Kyushu", la ville de Yanagawa est connue pour ses 470km de canaux, que l'on peut parcourir dans une petite barque avec un guide (un batelier). Yanagawa propose beaucoup de spécialités culinaires à base de produits de la mer (provenant de la baie Ariake), la plus connue étant une recette vielle de plusieurs siècles, des anguilles à la vapeur accompagnées de riz, dont la sauce est gardée secrète et transmise de génération en génération.  
-La ville célèbre divers festivals au cours de l'année, dont le [festival des poupées de Yanagawa](https://www.japan.travel/fr/fr/informations-de-nos-partenaires/festival-des-poupees-de-yanagawa/), durant lequel on suspend de splendides boules décoratives faites à la main (un style particulièrement joli sont les Yanagawa Mari).
+La ville célèbre divers festivals au cours de l'année, dont le festival des poupées de yanagawa (voir [ici](https://www.fukuoka-now.com/en/event/yanagawa-hina-festival-2024/) ou [ici](https://www.japan.travel/fr/fr/informations-de-nos-partenaires/festival-des-poupees-de-yanagawa/), **a lieu cette année jusqu'au 3 avril !**), durant lequel on suspend de splendides boules décoratives faites à la main (un style particulièrement joli sont les Yanagawa Mari).
 
 **Conseil** : acheter le *Yuttari Yanagawa Ticket Pack* à la station *Nintetsu Tenjin* (💴3,170¥), qui donne les bénéfices suivants :
 - le billet aller-retour (l'aller seul c'est 850¥)
