@@ -15,6 +15,7 @@ ___
   - [ ] Itoshima 🏙️
     - [ ] Cabanes à huîtres d'Itoshima
   - [ ] Randonnée Mimaji
+  - [x] Yanagawa 🏙️
 ___
 - [ ] Préfécture de Kagoshima
   - [x] Île Yakushima

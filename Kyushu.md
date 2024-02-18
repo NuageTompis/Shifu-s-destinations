@@ -7,6 +7,7 @@
 - [Préféctures](#préféctures)
 - [Fukuoka](#fukuoka)
   - [Parcours Munakata Oshima du Kyushu OLLE](#parcours-munakata-oshima-du-kyushu-olle)
+  - [Yanagawa](#yanagawa)
 - [Oita](#oita)
   - [Pont Kokonoe Yume](#pont-kokonoe-yume)
   - [Marais de Taderawa](#marais-de-taderawa)
@@ -25,6 +26,8 @@
     - [2. Itinéraire Shiratani-unsuikyo](#2-itinéraire-shiratani-unsuikyo)
     - [3. Forêt Yakusugi Land](#3-forêt-yakusugi-land)
     - [4. Itinéraire Miyanoura-dake](#4-itinéraire-miyanoura-dake)
+  - [Kagoshima (la ville)](#kagoshima-la-ville)
+    - [1. Jardin Sengan-en](#1-jardin-sengan-en)
 - [Kumamoto](#kumamoto)
   - [Kumamoto (la ville)](#kumamoto-la-ville)
     - [1. Le château Kumamoto-jo](#1-le-château-kumamoto-jo)
@@ -73,6 +76,29 @@ L'île comporte des auberges et des minshuku (version low-budget d'un Ryokan).
 | Moulin à vent                            | Micro-île Yume no Sayoshima              | Le Minshuku Manabe                     | Plan                                    |
 | ---------------------------------------- | ---------------------------------------- | -------------------------------------- | --------------------------------------- |
 | ![](images/munakata-oshima-windmill.jpg) | ![](images/yume-no-sayoshima-island.png) | ![](images/okitsugu-worship-place.png) | ![](images/oshima-course-olle-plan.png) |
+
+## Yanagawa
+
+Surnommée la "Venise de Kyushu", la ville de Yanagawa est connue pour ses 470km de canaux, que l'on peut parcourir dans une petite barque avec un guide (un batelier). Yanagawa propose beaucoup de spécialités culinaires à base de produits de la mer (provenant de la baie Ariake), la plus connue étant une recette vielle de plusieurs siècles, des anguilles à la vapeur accompagnées de riz, dont la sauce est gardée secrète et transmise de génération en génération.  
+La ville célèbre divers festivals au cours de l'année, dont le [festival des poupées de Yanagawa](https://www.japan.travel/fr/fr/informations-de-nos-partenaires/festival-des-poupees-de-yanagawa/), durant lequel on suspend de splendides boules décoratives faites à la main (un style particulièrement joli sont les Yanagawa Mari).
+
+**Conseil** : acheter le *Yuttari Yanagawa Ticket Pack* à la station *Nintetsu Tenjin* (💴3,170¥), qui donne les bénéfices suivants :
+- le billet aller-retour (l'aller seul c'est 850¥)
+- un tour en bateau de 70min
+- une entrée au onsen *Kampo-no-yado Yanagawa*
+- une carte de la ville en anglais explicative
+
+**Conseil** : à 3min du point d'arrivée de la balade en bateau se trouve le *Ohana Shohtoen*, constitué d'un jardin, d'un musée et d'une ancienne résidence au style européen (💴500¥).
+
+Pour un peu plus d'informations (onsens, résidences, temples, musées, photos), voir notamment l'article Japan Guide.
+
+| Note | Site                                                                                                                                                                      | Distance de Fukuoka | Durée conseillée | Meilleure période                                                                                                                     |
+| ---- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ------------------- | ---------------- | ------------------------------------------------------------------------------------------------------------------------------------- |
+| ⭐⭐⚫  | [Ici](https://www.yanagawa-net.com/en/) ou [article Japan travel](https://www.japan.travel/en/au/story/insiders-guide-yanagawa/) ou [article Japan Guide](https://www.japan-guide.com/community/mfedley/report-2676) | 45min 🚆 ou 30min 🚗  | N/A              | `"Each season has its own appeal"`, `Mi février - début avril pour le Festival des Poupées`, `au printemps pour les sakuras en fleur` |
+
+| Canal                      | Canal                      | Yanagawa Mari                  | Un événement ayant lieu lors d'un festival (celui-ci a lieu en novembre) | Plan                          |
+| -------------------------- | -------------------------- | ------------------------------ | ------------------------------------------------------------------------ | ----------------------------- |
+| ![](images/yanagawa1.webp) | ![](images/yanagawa2.webp) | ![](images/yanagawa-mari.webp) | ![](images/yanagawa3.webp)                                               | ![](images/yanagawa-plan.png) |
 
 <br><br>
 

@@ -15,3 +15,5 @@ Service *Japan Wi-Fi* gratuit partout. Possible d'acheter une clé Wi-Fi auprès
 > *Silver week* : autre période de vacances, qui a lieu en septembre mais pas chaque année
 
 > *Shakkei*, aka *Paysage emprunté* ou *borrowed scenery* : dans le cadre d'un jardin, c'est le fait d'intégrer le paysage environnant dans sa constitution.
+
+> *Matsuri* : un festival (ils utilisent parfois le terme japonais même dans les guides anglais).
