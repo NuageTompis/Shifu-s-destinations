@@ -26,7 +26,11 @@ ___
   - [ ] Île Amami Oshima
   - [ ] Parc national Kirishima
   - [ ] Péninsule Satsuma
-    - [ ] Station thermale Ibusuki (Ibusuki Sunamushi Kaikan Saraku)
+    - [x] Ibusuki 🏙️
+      - [x] Station thermale Ibusuki (Ibusuki Sunamushi Kaikan Saraku)
+      - [x] Bains publics Healthy Land
+      - [x] Parc floral Kagoshima
+      - [x] Île Chiringashima
   - [ ] Kagoshima 🏙️
     - [x] Jardin Sengan-en
   - [ ] Île Tokunoshima

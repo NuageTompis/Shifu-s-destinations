@@ -28,6 +28,12 @@
     - [4. Itinéraire Miyanoura-dake](#4-itinéraire-miyanoura-dake)
   - [Kagoshima (la ville)](#kagoshima-la-ville)
     - [1. Jardin Sengan-en](#1-jardin-sengan-en)
+  - [Péninsule de Satsuma](#péninsule-de-satsuma)
+    - [Ibusuki](#ibusuki)
+      - [1. Station thermale Ibusuki (Ibusuki Sunamushi Kaikan Saraku)](#1-station-thermale-ibusuki-ibusuki-sunamushi-kaikan-saraku)
+      - [2. Bains publics Healthy Land](#2-bains-publics-healthy-land)
+      - [3. Parc floral Kagoshima](#3-parc-floral-kagoshima)
+      - [4. Île Chiringashima](#4-île-chiringashima)
 - [Kumamoto](#kumamoto)
   - [Kumamoto (la ville)](#kumamoto-la-ville)
     - [1. Le château Kumamoto-jo](#1-le-château-kumamoto-jo)
@@ -77,6 +83,8 @@ L'île comporte des auberges et des minshuku (version low-budget d'un Ryokan).
 | ---------------------------------------- | ---------------------------------------- | -------------------------------------- | --------------------------------------- |
 | ![](images/munakata-oshima-windmill.jpg) | ![](images/yume-no-sayoshima-island.png) | ![](images/okitsugu-worship-place.png) | ![](images/oshima-course-olle-plan.png) |
 
+[↩️](#sommaire)
+
 ## Yanagawa
 
 Surnommée la "Venise de Kyushu", la ville de Yanagawa est connue pour ses 470km de canaux, que l'on peut parcourir dans une petite barque avec un guide (un batelier). Yanagawa propose beaucoup de spécialités culinaires à base de produits de la mer (provenant de la baie Ariake), la plus connue étant une recette vielle de plusieurs siècles, des anguilles à la vapeur accompagnées de riz, dont la sauce est gardée secrète et transmise de génération en génération.  
@@ -92,13 +100,15 @@ La ville célèbre divers festivals au cours de l'année, dont le festival des p
 
 Pour un peu plus d'informations (onsens, résidences, temples, musées, photos), voir notamment l'article Japan Guide.
 
-| Note | Site                                                                                                                                                                      | Distance de Fukuoka | Durée conseillée | Meilleure période                                                                                                                     |
-| ---- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ------------------- | ---------------- | ------------------------------------------------------------------------------------------------------------------------------------- |
+| Note | Site                                                                                                                                                                                                                 | Distance de Fukuoka | Durée conseillée | Meilleure période                                                                                                                     |
+| ---- | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ------------------- | ---------------- | ------------------------------------------------------------------------------------------------------------------------------------- |
 | ⭐⭐⚫  | [Ici](https://www.yanagawa-net.com/en/) ou [article Japan travel](https://www.japan.travel/en/au/story/insiders-guide-yanagawa/) ou [article Japan Guide](https://www.japan-guide.com/community/mfedley/report-2676) | 45min 🚆 ou 30min 🚗  | N/A              | `"Each season has its own appeal"`, `Mi février - début avril pour le Festival des Poupées`, `au printemps pour les sakuras en fleur` |
 
 | Canal                      | Canal                      | Yanagawa Mari                  | Un événement ayant lieu lors d'un festival (celui-ci a lieu en novembre) | Plan                          |
 | -------------------------- | -------------------------- | ------------------------------ | ------------------------------------------------------------------------ | ----------------------------- |
 | ![](images/yanagawa1.webp) | ![](images/yanagawa2.webp) | ![](images/yanagawa-mari.webp) | ![](images/yanagawa3.webp)                                               | ![](images/yanagawa-plan.png) |
+
+[↩️](#sommaire)
 
 <br><br>
 
@@ -119,6 +129,8 @@ Randonnées possibles aux monts monts Mimata et Waita.
 | ----------------------------------- | ---------------------------------------- |
 | ![](images/kokonoe-yume-bridge.jpg) | ![](images/kokonoe-yume-bridge-plan.png) |
 
+[↩️](#sommaire)
+
 ## Marais de Taderawa
 
 Des marais préservés, une faune et flore rares et de superbes randonnées dans les environs. Magnifique passerelle en cèdre qui traverse le marais.  
@@ -132,6 +144,8 @@ Randonnées possibles aux monts Hosho et Mimata.
 | Photo                           | Plan                                 |
 | ------------------------------- | ------------------------------------ |
 | ![](images/marais-tadewara.jpg) | ![](images/marais-tadewara-plan.png) |
+
+[↩️](#sommaire)
 
 ## Kurokawa Onsen
 
@@ -155,6 +169,8 @@ Grande diversité de restaurants et d'enseignes à souvenirs.
 | -------------------------------- | -------------------------------- | --------------------------------- | ----------------------------------- |
 | ![](images/kurokawa-onsen-1.jpg) | ![](images/kurokawa-onsen-2.jpg) | ![](images/kurokawa-onsen-3.webp) | ![](images/kurokawa-onsen-plan.png) |
 
+[↩️](#sommaire)
+
 ## Parcours Okubungo du Kyushu OLLE
 
 Très belle randonnée de 12km traversant le coeur de la préfécture d'Oita. C'est la seule directement recommandée par le livre et c'est la première qui apparaît sur le site. Le parcours inclut notamment les ruines du château Okajo, un temple avec d'immenses statues bouddhiques, la ville de samouraïs Taketa. La ville d'arrivée propose un onsen.
@@ -166,6 +182,8 @@ Très belle randonnée de 12km traversant le coeur de la préfécture d'Oita. C'
 | Statues bouddhistes                          | Taketa                                      | Plan                                      |
 | -------------------------------------------- | ------------------------------------------- | ----------------------------------------- |
 | ![](images/okubongo-course-olle-statues.jpg) | ![](images/okubongo-course-olle-taketa.jpg) | ![](images/okubongo-course-olle-plan.png) |
+
+[↩️](#sommaire)
 
 ## Onsen Hyotan
 
@@ -180,6 +198,8 @@ Contraitement à beaucoup d'onsens au Japon, l'eau y could en continu donc est t
 | -------------------------------------- | -------------------------------------- | ---------------------------------- | ---------------------------------- |
 | ![](images/hyotan-onsen-open-bath.png) | ![](images/hyotan-onsen-sand-bath.png) | ![](images/hyotan-onsen-plan1.png) | ![](images/hyotan-onsen-plan2.png) |
 
+[↩️](#sommaire)
+
 <br><br>
 
 # Nagasaki
@@ -190,7 +210,7 @@ Avant les destructions de la Seconde Guerre mondiale, Nagasaki ainsi que d'autre
 
 | Note | Site | Distance de Fukuoka | Durée conseillée | Plan                          |
 | ---- | ---- | ------------------- | ---------------- | ----------------------------- |
-| ⭐⭐⭐  | N/A  | 2h00 🚗              | Plusieurs jours  | ![](images/nagasaki-plan.png) |
+| ⭐⭐⭐  | N/A  | 2h00 🚗 ou 1h30 🚆    | Plusieurs jours  | ![](images/nagasaki-plan.png) |
 
 **Point important** : prévoir des chaussures de marche car la ville est valonnée
 
@@ -207,6 +227,8 @@ Avant les destructions de la Seconde Guerre mondiale, Nagasaki ainsi que d'autre
 | ------------------------------------ | ------------------------------- | ---------------------------------- |
 | ![](images/dejima-nagasaki-1.jpg)    | ![](images/nagasaki-dejima.jpg) | ![](images/dejima-nagasaki-2.webp) |
 
+[↩️](#sommaire)
+
 ### 2. Musée de la Bombe atomique de Nagasaki
 
 "Incontournable lors d'un passage à Nagasaki".  
@@ -221,6 +243,8 @@ Avant les destructions de la Seconde Guerre mondiale, Nagasaki ainsi que d'autre
 | --------------------------------------------- | ---------------------------------------------- |
 | ![](images/nagasaki-atomic-bomb-museum-1.jpg) | ![](images/nagasaki-atomic-bomb-museum-2.webp) |
 
+[↩️](#sommaire)
+
 ### 3. Mémorial national de la paix de Nagasaki aux victimes de la bombe atomique
 
 Voisin du musée, un mémorial minimaliste profondément émouvant. Une salle souterraine remplie d'étagères de livres contenant le noms des défunts.
@@ -232,6 +256,8 @@ Voisin du musée, un mémorial minimaliste profondément émouvant. Une salle so
 | Photo                                     | Photo                                      |
 | ----------------------------------------- | ------------------------------------------ |
 | ![](images/nagasaki-peace-memorial-1.jpg) | ![](images/nagasaki-peace-memorial-2.webp) |
+
+[↩️](#sommaire)
 
 <br><br>
 
@@ -256,6 +282,8 @@ Il y a aussi le Hakozaki Hachiman Shrine, avec la plus grosse cloche du Japon (q
 | Grues                       | Repas avec une famille hôte                    | Résidence de samouraï                     | Cloche du Hakozaki Hachiman Shrine                  | Plan                            |
 | --------------------------- | ---------------------------------------------- | ----------------------------------------- | --------------------------------------------------- | ------------------------------- |
 | ![](images/grues-izumi.jpg) | ![](/images/izumi-dinner-with-family-host.jpg) | ![](/images/izumi-samurai-residence.webp) | ![](images/izumi-hakozaki-hachiman-shrine-bell.jpg) | ![](images/izumi-kagoshima.png) |
+
+[↩️](#sommaire)
 
 ## Île Yakushima
 
@@ -283,6 +311,8 @@ En général les randonneurs rejoignent Jomon-sugi par la randonnée Arakawa-toz
 | ----------------------------------- | --------------------------------------------- | ---------------------------------------------- | -------------------------------------------- |
 | ![](images/yakushima-jomonsugi.jpg) | ![](images/akarawa-tozanguchi-first-part.jpg) | ![](images/akarawa-tozanguchi-second-part.jpg) | ![](images/akarawa-tozanguchi-meotosugi.jpg) |
 
+[↩️](#sommaire)
+
 ### 2. Itinéraire Shiratani-unsuikyo
 
 Parcours plus varié que le Arakawa-tozanguchi, il passe par des cascades, rochers couverts de mousse et un yakusugi imposant qui domine le parcours de Taikoiwa. Ses paysages ont inspiré l'univers de Mononoke Hime (Princesse Mononoke).  
@@ -299,6 +329,8 @@ Plusieurs variantes du parcours sont possibles, et on peut rejoindre l'itinérai
 | ![](images/shiratani-unsuikyo1.jpg) | ![](images/shiratani-unsuikyo2.jpg) | ![](images/shiratani-unsuikyo3.jpg) |
 
 
+[↩️](#sommaire)
+
 ### 3. Forêt Yakusugi Land
 
 Parc naturel remplis de yakusugi. Les chemins sont bien aménagés, notamment avec diverses passerelles qui traversent les cours d'eau. Si on est pressés on peut tout de même voir de beaux cèdres sans trop s'enfoncer dans la forêt. Le parc comprend une grande variété de parcours (généralement entre 30min et 2h30). Il y a des panneaux en anglais sur le chemin.
@@ -313,6 +345,8 @@ Parc naturel remplis de yakusugi. Les chemins sont bien aménagés, notamment av
 | ------------------------------ | ------------------------------ | --------------------------------------- |
 | ![](images/yakusugi-land1.jpg) | ![](images/yakusugi-land2.jpg) | ![](images/yakusugi-land-kigensugi.jpg) |
 
+[↩️](#sommaire)
+
 ### 4. Itinéraire Miyanoura-dake
 
 Plus ancien parcours de Yakushima, il mène au Miyanoura-dake (1,936m), point culminant de l'île et de tout Kyushu ! La randonnée prend environ 7h et propose une flore et une faune uniques.
@@ -324,6 +358,8 @@ Plus ancien parcours de Yakushima, il mène au Miyanoura-dake (1,936m), point cu
 | Photo                           | Photo                           | Photo                           |
 | ------------------------------- | ------------------------------- | ------------------------------- |
 | ![](images/miyanoura-dake1.jpg) | ![](images/miyanoura-dake2.jpg) | ![](images/miyanoura-dake3.jpg) |
+
+[↩️](#sommaire)
 
 ## Kagoshima (la ville)
 
@@ -346,6 +382,66 @@ Plusieurs éléments du Senganen sont classés patrimoine mondial, notamment des
 | Jardin                               | Jardin                               | Résidence Ijinkan                           |
 | ------------------------------------ | ------------------------------------ | ------------------------------------------- |
 | ![](images/sengan-en-kagoshima1.jpg) | ![](images/sengan-en-kagoshima2.jpg) | ![](images/sengan-en-kagoshima-ijinkan.jpg) |
+
+[↩️](#sommaire)
+
+## Péninsule de Satsuma
+
+> NB : Plus pratique de s'y déplacer en voiture.
+
+### Ibusuki
+
+Ibusuki, située à l'extrémité de la péninsule de Satsuma, est surtout connue pour ses bains de sable.  
+Près d'Ibusuki se trouve le mont Kaimon (aussi appelé Satsumafuji car il ressemble au mont Fuji) (924m). Comme il y a peu de montagnes aux alentours on peut l'apprécier d'un peu partout autour, notamment depuis le fameux cap Nagasakibana. La rando (~5h) est pas très dure et le sommet donne un très beau panoramique.
+
+| Note | Site                                                                                                                                                                                                                                                            | Distance de Fukuoka                | Durée conseillée | Meilleure période |
+| ---- | --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ---------------------------------- | ---------------- | ----------------- |
+| ⭐⭐⚫  | [Japan travel](https://www.japan.travel/en/destinations/kyushu/kagoshima/ibusuki-and-around/) ou [Japan Guide](https://www.japan-guide.com/e/e4677.html) ou [Article Japan travel x Navitime](https://japantravel.navitime.com/en/area/jp/guide/NTJarea0052-en) | 2h (Kagoshima) + 50min 🚆 ou 3h30 🚗 | N/A              | N/A               |
+
+| Mont Kaimon                        | Cap Nagasakibana                  | Plan                         |
+| ---------------------------------- | --------------------------------- | ---------------------------- |
+| ![](images/kaimonfuji-ibusuki.jpg) | ![](images/cape-nagasakibana.jpg) | ![](images/ibusuki-plan.png) |  |
+
+#### 1. Station thermale Ibusuki (Ibusuki Sunamushi Kaikan Saraku)
+
+Principale destination pour profiter des sources thermales d'Ubusuki. Contient bains intérieurs, hammam, et une parcelle de plage pour se faire ensabler dans du sable chaud.
+
+| Prix 💴 | Note | Site | Durée conseillée | Meilleure période | Photo                                           |
+| ------ | ---- | ---- | ---------------- | ----------------- | ----------------------------------------------- |
+| 1,100¥      | ⭐⚫⚫  |      | N/A              | N/A               | ![](images/ibusuki-sunamushi-kaikan-saraku.jpg) |
+
+[↩️](#sommaire)
+
+#### 2. Bains publics Healthy Land
+
+Un grand onsen regroupant plusieurs bains publics, certains donnant une superbe vue sur le mont Kaimon.
+
+| Prix 💴 | Note | Site | Durée conseillée | Meilleure période | Photo                                |
+| ------ | ---- | ---- | ---------------- | ----------------- | ------------------------------------ |
+| 510¥ pour les bains extérieur      | ⭐⚫⚫  |      | N/A              | N/A               | ![](images/ibusuki-healthy-land.jpg) |
+
+[↩️](#sommaire)
+
+#### 3. Parc floral Kagoshima
+
+Présentant 2 400 espèces de plantes tropicales et subtropicales, ce grand jardin botanique se spécialise sur les fleurs. On peut y apprécier le mont Kaimon et la baie de Kinko en arrière-plan.  
+Le jardin longe la côte sur 500m et des navettes gratuites le parcourent.
+
+| Prix 💴 | Note | Site                                                                                                             | Durée conseillée | Meilleure période | Photo                                 | Photo                                  |
+| ------ | ---- | ---------------------------------------------------------------------------------------------------------------- | ---------------- | ----------------- | ------------------------------------- | -------------------------------------- |
+| 630¥   | ⭐⭐⚫  | [Japan guide](https://www.japan-guide.com/e/e4680.html) ou [Japan travel](https://www.japan.travel/en/spot/607/) | N/A              | N/A               | ![](images/flower-park-kagoshima.jpg) | ![](images/flower-park-kagoshima2.jpg) |
+
+[↩️](#sommaire)
+
+#### 4. Île Chiringashima
+
+Petite île (circonférence de 3km) située à l'extrêmité de la péninsule, accessible à pieds à marée basse. Un semblant de chemin de sable est formé naturellement, et on peut l'emprunter à marée basse de mars à octobre (petite promenade de 20min). Il faut trouver le bon moment car il n'apparaît pas très longtemps (4h grand max, sinon plutôt 2h). Le chemin est ocasionnellement détruit par un typhon mais se reconstruit éventuellement par dépôts de sable grâce aux marées.
+
+| Prix 💴    | Note | Site | Durée conseillée | Meilleure période                        | Photo                                |
+| --------- | ---- | ---- | ---------------- | ---------------------------------------- | ------------------------------------ |
+| *Gratuit* | ⭐⭐⚫  |      | N/A              | De mars à octobre pour y accéder à pieds | ![](images/chiringashima-island.jpg) |
+
+[↩️](#sommaire)
 
 <br><br>
 
@@ -371,6 +467,8 @@ Les quelques 800 cerisiers de ses jardins en font une destination lorsqu'ils son
 | ---------------------------- | ------------------------------------------------------------ | ---------------------------- |
 | ![](images/kumamoto-jo1.jpg) | ![](images/kumamoto-jo-honmaru-goten-palace.jpg)             | ![](images/kumamoto-jo2.jpg) |
 
+[↩️](#sommaire)
+
 ### 2. Le jardin Suizenji
 
 Splentide jardin datant du XVIIe siècle. Il représente une reproduction des stations de la route Tokaido, qui reliait Edo et Kyoto. L'eau qui y coule est d'une grande qualité et utilisée pour faire des thés, si bien qu'une maison de thé a été contruite en son sein.  
@@ -383,3 +481,5 @@ Le bassin abrite des carpes koi et de jolis oiseaux. On peut le traverser sur un
 | Photo                           | Le Izume Shrine                               | Habitant du parc                      |
 | ------------------------------- | --------------------------------------------- | ------------------------------------- |
 | ![](images/suizenji-garden.jpg) | ![](images/suizenji-garden-izumi-shrine.webp) | ![](images/suizenji-garden-bird.webp) |
+
+[↩️](#sommaire)
